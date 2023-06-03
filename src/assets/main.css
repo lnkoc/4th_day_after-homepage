@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background-image: url("tlo1920.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:  cover;
+  background-color: cornflowerblue;
+  overflow-y: scroll;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
